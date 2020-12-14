@@ -8,13 +8,13 @@
 - [数据拆分教程](DataSplit.ipynb)
 - [QIIME2-Pipeline_old](QIIME2-Pipeline.ipynb)
 ## WGS
-  - [WGS单菌全基因组分析流程](https://github.com/LD-Lab/WGS-Pipeline)
-  - []()
+- [WGS单菌全基因组分析流程](https://github.com/LD-Lab/WGS-Pipeline)
+- []()
 
 ## Transcriptomics
 - []()
 ## Metagenomics
-- [宏基因组分析流程]()
+- [宏基因组分析流程](https://github.com/LD-Lab/Metagenomics-Pipeline)
 
 ## Metatranscriptomics
 - [Metatranscriptomics-Pipeline]()
